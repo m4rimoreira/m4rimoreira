@@ -10,7 +10,7 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 - 🔧 Tech Stack: C e JavaScript
 - 🎯 Metas: Criar um projeto totalmente do 0 em Java
 
-### 📚 Estou Aprendendo/Estudando Atualmente
+### 📚 Estou Estudando Atualmente
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
