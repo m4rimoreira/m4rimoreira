@@ -7,8 +7,7 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 ## 💡 Interesses e Habilidades
 
 - 💡 Foco atual: IA e cybersecurity
-- 🔧 Tech Stack: C e JavaScript
-- 🎯 Metas: Criar um projeto totalmente do 0 em Java
+- 🔧 Tech Stack: C 
 
 ### 📚 Estou Estudando Atualmente
 
