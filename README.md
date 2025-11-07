@@ -18,7 +18,6 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 
 ## 📈 Minhas Estatísticas no GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rimoreira&layout=compact&theme=radical)
 
