@@ -18,10 +18,11 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 
 ## 📈 Minhas Estatísticas no GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=radical
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rimoreira&layout=compact&theme=tokyonight)
 
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=m4rimoreira&theme=tokyo-night)
 
 ## 📫 Como Me Encontrar
 
