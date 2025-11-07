@@ -20,6 +20,7 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=radical)
 
+https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=radical
 
 
 ## 📫 Como Me Encontrar
