@@ -6,8 +6,8 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 
 ## 💡 Interesses e Habilidades
 
-- 💡 Foco atual: IA e cybersecurity
-- 🔧 Tech Stack: C 
+- 💡 Foco atual: Análise de dados
+- 🔧 Tech Stack: Python e SQL
 
 ### 📚 Estou Estudando Atualmente
 
