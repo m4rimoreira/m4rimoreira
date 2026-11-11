@@ -19,10 +19,10 @@ Quando não estou codando, você me encontra lendo ou ouvindo músicas.
 ## 📈 Minhas Estatísticas no GitHub
 
 #### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=m4rimoreira&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=m4rimoreira&show_icons=true&theme=dracula)
 
 #### 💻 Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rimoreira&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4rimoreira&layout=compact&theme=dracula)
 
 
 
